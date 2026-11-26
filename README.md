@@ -67,4 +67,4 @@ Atualmente, aplico conceitos de **Arquitetura em Camadas, MVC e metodologias ág
   </a>
 </p>
 
-[![HitCount](https://hits.dwyl.com/Luizgui-5790/Luizgui-5790.svg?style=flat-square)](http://hits.dwyl.com/Luizgui-5790/Luizgui-5790)
+![](https://komarev.com/ghpvc/?username=Luizgui-5790)
